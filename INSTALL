@@ -1,0 +1,9 @@
+Building CoinAid
+
+See doc/readme-qt.rst for instructions on building CoinAid QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CoinAid.
+
+See doc/build-*.txt for instructions on building CoinAidd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CoinAid.
